@@ -1,4 +1,4 @@
-print ("hello world")
+
 start, end = 4, 19
   
 # iterating each number in list
